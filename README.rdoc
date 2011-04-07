@@ -1,6 +1,11 @@
 = SQL-query-builder
 
-Description goes here.
+Conceptually this is more of just a toy to for me to play with. 
+
+The goal is that we have a set of objects that contain parts of a SQL query that when asked, will unroll to repersent that query in string form with the correctly escaped bind vars in place correctly.
+
+As I am still learning the ruby-way and community tools this will likely be very very DBI-centric in thinking, I'm sorry in advance for all the mistakes that I will make, but thats what learning is all about.
+
 
 == Contributing to SQL-query-builder
  
